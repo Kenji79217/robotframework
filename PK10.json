@@ -1,0 +1,62 @@
+0: {playType: "SIMPLE", stake: 10, validBet: 0, state: 0, odds: [1.98], unit: "DOLLAR", times: 1,…}
+playType: "SIMPLE"
+stake: 10
+validBet: 0
+state: 0
+odds: [1.98]
+0: 1.98
+unit: "DOLLAR"
+times: 1
+lastAvailable: 1584634470000
+betComment: ""
+rebate: 0
+txnId: 1089764830879926
+gameId: "NYSC5F"
+betString: "s1p3|tiger"
+betCount: 1
+createDate: "2020-03-20 00:12:13"
+drawId: 2020032000003
+drawIdString: "202003200003"
+prizeWon: 0
+matchCount: 0
+playRateCategory: "第三名"
+playRateName: "虎"
+drawResult: null
+cycleEnd: 1584634500000
+
+playId: 40002
+gameId: "NYSC5F"
+code: "f1d1single|u1"
+packageMax: 1980
+packageMin: 1800
+status: "ACTIVE"
+theoreticalPrize: 10
+odds: 9.9
+zodiacValue: null
+playRateId: 13131
+playRateCategory: "冠军"
+playRateName: "直选单式"
+
+playType: "SIMPLE"
+stake: 10
+validBet: 10
+state: 3
+odds: [1.98]
+unit: "DOLLAR"
+times: 1
+lastAvailable: 1584634470000
+betComment: ""
+rebate: 0
+txnId: 1089764830871733
+gameId: "NYSC5F"
+betString: "s1p3|dragon"
+betCount: 1
+createDate: "2020-03-20 00:12:13"
+drawId: 2020032000003
+drawIdString: "202003200003"
+prizeWon: 0
+matchCount: 0
+playRateCategory: "第三名"
+playRateName: "龙"
+drawResult: "2|1|3|5|4|9|10|8|7|6"
+cycleEnd: 1584634500000
